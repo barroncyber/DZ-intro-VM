@@ -3,7 +3,7 @@ An introductory Virtual Machine activity designed to guide new Linux users throu
 
 
 ## VM Download Link
-Download the provided virtual machine for this challenge [here]([url](https://drive.google.com/file/d/1kBrtRAYVXIAtLf6tezk0p12jvpLqcksK/view?usp=sharing)). 
+Download the provided virtual machine for this challenge [here]((https://drive.google.com/file/d/1kBrtRAYVXIAtLf6tezk0p12jvpLqcksK/view?usp=sharing)) 
 
 
 ## Challenge Information
